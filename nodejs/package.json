@@ -1,0 +1,16 @@
+{
+  "name": "dustesssdk-encrypt-nodejs-example",
+  "version": "1.0.0",
+  "description": "dustesssdk encrypt example nodejs version",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "dustesssdk",
+    "nodejs",
+    "encrypt"
+  ],
+  "author": "dustess",
+  "license": "MIT"
+}
